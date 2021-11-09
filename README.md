@@ -7,6 +7,7 @@ Consiste en un programa que realiza las siguientes operaciones matemáticas por 
 5) Raíz cuadrada
 6) Fórmula general
 7) Binomio cuadrado perfecto 
+8) 
 FUNCIONAMINENTO:
 El menú que se presenta para escoger la operación matemática deseada funciona con la condicional switch, el usuario debe ingresar el número que acompaña a la operación(No el nombre de la operación, sólo el número que la acompaña) y se ejeutará la función que hay dentro de el "case" de la operación elegida. El programa recoge los datos por medio del método prompt y los resultados son visibles únicamente en consola. 
 El programa recibe los datos que el usuario ingresa en los prompt y lo guarda en variables, que posteriormente pasan a ser datos de tipo float, y se realizan las operaciones matemáticas correspondientes, esto funcionando especialmente en la suma, resta, multiplicación y división, el resultado se muestra en consola.  
